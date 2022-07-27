@@ -2,4 +2,4 @@
 
 <h1> I have coded different stylish buttons </h1>
 
-![](giphy.gif)
+![](gif.gif)
